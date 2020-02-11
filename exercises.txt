@@ -1,0 +1,45 @@
+
+     * 1 Haz un programa que imprima tu nombre, y tu apellido por la consola
+     * 2 Haz un programa que imprima un número introducido por teclado
+     * 3 Haz un programa que imprima la suma de dos números introducidos por teclado sin decimales
+     * 4 Haz un programa que imprima la resta de dos números introducidos por teclado sin decimales
+     * 5 Haz un programa que imprima la multiplicación de dos números introducidos por teclado con decimales
+     * 6 Haz un programa que imprima la división de dos números introducidos por teclado con decimales.
+     * 7 Haz un programa que imprima la raíz cuadrada de un número introducido por teclado
+     * 8 Haz un programa que imprima el cuadrado de un número introducido por teclado
+     * 9 Haz un programa que imprima el resultado de a * b + c, siendo a b y c números introducidos por teclado
+     * 10 Haz un programa que contenga la declaración e inicialización de un array de números enteros vacío de 5 posiciones
+     * 11 Haz un programa que contenga la declaración e inicialización de un array de palabras vacío de 10 posiciones
+     * 12 Haz un programa que contenga un array de n posiciones, siendo n un número introducido por teclado
+     * 13 Haz un programa que te diga si el número que has introducido por teclado es par.
+     * 14 Haz un programa que te diga si el numero introducido por teclado es impar.
+     * 15 Haz un programa que te diga de dos números introducidos por teclado cuál es mayor.
+     * 16 Haz un programa que te diga de dos números introducidos por teclado cuál es menor
+     * 17 Haz un programa que recorra un array de 5 posiciones y te imprima "hola" por cada iteracción.
+     * 18 Haz un programa que recorra un array de 9 posiciones y te imprima el valor de cada posición, el array debe contener los números del 1 al 9.
+     * 19 Haz un programa que imprima hola mundo.
+     * 20 Haz un programa que calcule el arcotangente de n , siendo n un número introducido por teclado.
+     * 21 Haz un programa que diga si el cuadrado de n es par, siendo n un número introducido por teclado.
+     * 22 Haz un programa que diga si el cuadrado de n es impar, siendo n un número introducido por teclado.
+     * 23 Haz un programa que diga si la raiz cuadrada de n es par, siendo n un número introducido por teclado.
+     * 24 Haz un programa que diga si la raiz cuadrada de n es impar, siendo n un número introducido por teclado.
+     * 25 Haz un programa que realice esta operación a * b - c (a-d)^2, introduciendo todos los números por teclado.
+
+     * --------------------------------------------------
+
+
+     * 26 Haz un programa que obtenga el primer caracter de un texto y lo imprima.
+     * 27 Haz un programa que obtenga el último caracter de un texto y lo imprima.
+     * 28 Haz un programa que tenga dos opciones, en la primera realice a + b y en la segunda a - b, el suario debe elegir la opcion que quiera
+     * 29 Haz un programa que sume 5 números introducidos por teclado y te diga si el resultado es par o impar.
+     * 30 haz un programa que introduzcas un número por teclado y te diga si es primo o no.
+     * 31 Haz un programa que compruebe si un texto introducido por teclado tiene mas de 6 caracteres.
+     * 32 Haz un programa que compruebe que un texto introducido por teclado termina en "on"
+     * 33 Haz un programa que compruebe que un texto introducido por teclado empieza por "in"
+     * 34 Haz un programa que imprima por pantalla los 100 primeros números pares
+     * 35 Haz un programa que imprima por pantalla los 100 primeros números impares
+     * 36 Haz un programa que imprima por pantalla los 15 primeros números de la serie de fibonacci.
+     * 37 Haz un programa que ordene de mayor a menor 5 números introducidos por teclado
+     * 38 Haz un programa que ordene de menor a mayor 5 números introducidos por teclado.
+     * 39 Haz un programa que ordene caracteres del abecedario d emayor a enosr , entendiendo que la a es 1 y la z 27.
+     * 40 Haz un programa que imprima por pantalla los 1000 primeros números primos
